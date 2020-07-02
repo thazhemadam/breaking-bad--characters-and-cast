@@ -61,6 +61,10 @@ input[type='text'] {
   margin: auto;
 }
 
+.noCards{
+  text-align: center;
+}
+
 .cards {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
