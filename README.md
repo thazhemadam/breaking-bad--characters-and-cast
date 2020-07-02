@@ -1,7 +1,8 @@
 # Breaking Bad - Characters & Cast
 
 _Breaking Bad - Characters & Cast_ is a simple React application that displays the details of the characters casted (atleast those of any significance) in the popular TV Series, **Breaking Bad**.<br />
-Users can search for specific characters as well, to obtain some basic information about the characters, displayed on cards.
+Users can search for specific characters as well, to obtain some basic information about the characters, displayed on cards. <br />
+[The Breaking Bad API](https://breakingbadapi.com/) is used for retrieving the abovementioned information.
 <br /><br />
 
 ## Available Scripts
@@ -37,4 +38,4 @@ In the project directory, you can run the following commands.
     <br /><br />
 
 ## Credits and Attributions
-This application was creating following <a href='https://github.com/bradtraversy'>Brad Traversy</a>'s <a href="https://www.youtube.com/watch?v=YaioUnMw0mo">tutorial</a> on <a href="https://www.youtube.com/"> YouTube</a>.
+This application was created following [Brad Traversy](https://github.com/bradtraversy)'s [tutorial](https://www.youtube.com/watch?v=YaioUnMw0mo) on [YouTube](https://www.youtube.com/) .
